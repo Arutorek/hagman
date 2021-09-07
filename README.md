@@ -2,4 +2,5 @@
 
 sasas
 
-Autor:Jakub Strzelecki
+Autor:Jakub Strzelecki, Witold Brzeziński
+
